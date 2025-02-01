@@ -33,7 +33,7 @@ running Codespaces at https://github.com/codespaces when you have
 finished working. You can restart the Codespace at any time.
 
 
-## Locally
+## Locally (Not recommended, unless you are a professional)
 
 ### VS Code and Docker
 
