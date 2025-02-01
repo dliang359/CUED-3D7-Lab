@@ -12,7 +12,7 @@ libraries. In this case the lab can be undertaken using
 
 ## Colab (recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garth-wells/CUED-3D7-Lab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dliang359/CUED-3D7-Lab)
 
 At the start of each session it will take a few minutes for the required
 libraries to be installed.
@@ -25,7 +25,7 @@ in.
 
 ## Codespaces
 
-[![Create a new Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/garth-wells/CUED-3D7-Lab)
+[![Create a new Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/dliang359/CUED-3D7-Lab)
 
 You can return to your Codespace at https://github.com/codespaces.
 Codespaces core hours per month are limited, so it is helpful to stop
@@ -40,7 +40,7 @@ finished working. You can restart the Codespace at any time.
 1. Open VS Code.
 2. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
    the repository
-   [`garth-wells/CUED-3D7-Lab`](https://github.com/garth-wells/CUED-3D7-Lab)
+   [`dliang359/CUED-3D7-Lab`](https://github.com/dliang359/CUED-3D7-Lab)
    from GitHUb using from VS Code.
 3. Follow the VS Code prompts to install 'Dev Containers'.
 4. Select the VS Code prompt 'Reopen in Container'.
